@@ -1,2 +1,2 @@
 # Proyecto-NTP
-Denven de descargarse las carpetas node-js
+Deben de descargarse las carpetas node-js
